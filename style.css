@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.main-card {
+    background-color: #f89a28;
+}
+
+.btn-dark {
+    background-color: black;
+    color: white;
+}
+
+#loading {
+    display: none;
+}
+
+#results {
+    display: none;
+}
